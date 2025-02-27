@@ -1,4 +1,4 @@
-## Problem 7: Increasing Triplet Subsequence
+## Problem 8: Increasing Triplet Subsequence
 
 **Link:** [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/?envType=study-plan-v2&envId=leetcode-75)  
 
