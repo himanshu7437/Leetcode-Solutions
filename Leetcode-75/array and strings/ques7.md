@@ -11,5 +11,5 @@ You must write an algorithm that runs in O(n) time and without using the divisio
 
 ### Solution
 
-**Link:** [Product of Array Except Self](https://leetcode.com/problems/reverse-words-in-a-string/solutions/6433431/efficient-solution-to-reverse-words-in-a-08zh) 
+**Link:** [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/solutions/6475535/optimized-code-on-with-explanation-java-ksogu) 
 
