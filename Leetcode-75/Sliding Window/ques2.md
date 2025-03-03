@@ -1,14 +1,12 @@
-## Problem 1: Maximum Average Subarray I
+## Problem 2: Maximum Number of Vowels in a Substring of Given Length
 
-**Link:** [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/?envType=study-plan-v2&envId=leetcode-75)  
+**Link:** [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/?envType=study-plan-v2&envId=leetcode-75)  
 
 ### Problem Statement
-You are given an integer array nums consisting of n elements, and an integer k.
+Given a string s and an integer k, return the maximum number of vowel letters in any substring of s with length k.
 
-Find a contiguous subarray whose length is equal to k that has the maximum average value and return this value. Any answer with a calculation error less than 10-5 will be accepted.
-
- 
+Vowel letters in English are 'a', 'e', 'i', 'o', and 'u'.
 
 ### Solution
 
-**Link:** [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/solutions/6490657/sliding-window-best-approach-with-on-jav-z9qc) 
+**Link:** [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/solutions/6491293/easy-to-understand-best-optimized-approa-ycpg) 
