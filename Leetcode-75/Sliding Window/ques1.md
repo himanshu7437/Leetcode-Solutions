@@ -1,16 +1,14 @@
-## Problem 1: Max Number of K-Sum Pairs
+## Problem 1: Maximum Average Subarray I
 
-**Link:** [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/solutions/?envType=study-plan-v2&envId=leetcode-75)  
+**Link:** [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/?envType=study-plan-v2&envId=leetcode-75)  
 
 ### Problem Statement
-You are given an integer array nums and an integer k.
+You are given an integer array nums consisting of n elements, and an integer k.
 
-In one operation, you can pick two numbers from the array whose sum equals k and remove them from the array.
-
-Return the maximum number of operations you can perform on the array.
+Find a contiguous subarray whose length is equal to k that has the maximum average value and return this value. Any answer with a calculation error less than 10-5 will be accepted.
 
  
 
 ### Solution
 
-**Link:** [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/solutions/6483129/optimized-two-pointers-approach-java-by-tbkq6) 
+**Link:** [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/solutions/6490657/sliding-window-best-approach-with-on-jav-z9qc) 
