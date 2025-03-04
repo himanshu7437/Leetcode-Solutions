@@ -9,4 +9,4 @@ Return the size of the longest non-empty subarray containing only 1's in the res
 
 ### Solution
 
-**Link:** [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/max-consecutive-ones-iii/solutions/6492426/beginner-friendly-optimized-approach-on-flefz) 
+**Link:** [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/solutions/6492507/beginner-friendly-optimized-sliding-wind-8y0b)
