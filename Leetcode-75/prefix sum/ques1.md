@@ -9,4 +9,4 @@ You are given an integer array gain of length n where gain[i] is the net gain in
 
 ### Solution
 
-**Link:** [Find the Highest Altitude](https://leetcode.com/problems/move-zeroes/solutions/6475812/clean-simple-and-efficient-solution-java) 
+**Link:** [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/solutions/6505475/find-the-peak-altitude-efficient-on-appr-36gi) 
