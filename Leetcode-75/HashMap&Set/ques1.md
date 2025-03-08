@@ -11,4 +11,4 @@ Note that the integers in the lists may be returned in any order.
 
 ### Solution
 
-**Link:** [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-highest-altitude/solutions/6505475/find-the-peak-altitude-efficient-on-appr-36gi) 
+**Link:** [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/solutions/6514833/easy-to-understand-optimal-on-m-clean-ef-cdhq) 
