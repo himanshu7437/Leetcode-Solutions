@@ -1,12 +1,14 @@
-## Problem 1: Find the Highest Altitude
+## Problem 1: Find the Difference of Two Arrays
 
-**Link:** [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/?envType=study-plan-v2&envId=leetcode-75)  
+**Link:** [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/?envType=study-plan-v2&envId=leetcode-75)  
 
 ### Problem Statement
-There is a biker going on a road trip. The road trip consists of n + 1 points at different altitudes. The biker starts his trip on point 0 with altitude equal 0.
+Given two 0-indexed integer arrays nums1 and nums2, return a list answer of size 2 where:
 
-You are given an integer array gain of length n where gain[i] is the net gain in altitude between points i​​​​​​ and i + 1 for all (0 <= i < n). Return the highest altitude of a point.
+answer[0] is a list of all distinct integers in nums1 which are not present in nums2.
+answer[1] is a list of all distinct integers in nums2 which are not present in nums1.
+Note that the integers in the lists may be returned in any order.
 
 ### Solution
 
-**Link:** [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/solutions/6505475/find-the-peak-altitude-efficient-on-appr-36gi) 
+**Link:** [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-highest-altitude/solutions/6505475/find-the-peak-altitude-efficient-on-appr-36gi) 
